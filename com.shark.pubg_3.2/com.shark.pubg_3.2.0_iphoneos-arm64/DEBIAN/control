@@ -1,0 +1,10 @@
+Package: com.shark.pubg
+Name:  SHARK ENGINE
+Depends: mobilesubstrate, preferenceloader
+Description: SHARK
+Maintainer: chunmodvn
+Author: chunmodvn
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 3.2.0
+Installed-Size: 17892
